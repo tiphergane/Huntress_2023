@@ -1,0 +1,28 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Nov  1 18:38:18 2023
+Invocation: foremost thumbcache_256.db 
+Output directory: /media/RAID10/ctf/huntress/2023/Forensic/Opposable Thumbs_RESOLU/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: thumbcache_256.db
+Start: Wed Nov  1 18:38:18 2023
+Length: 1024 KB (1048576 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000156.jpg 	       5 KB 	      80032 	 
+1:	00000002.png 	      24 KB 	       1306 	  (256 x 256)
+2:	00000050.png 	      11 KB 	      26084 	  (256 x 256)
+3:	00000073.png 	      17 KB 	      37474 	  (256 x 256)
+4:	00000108.png 	      24 KB 	      55356 	  (256 x 256)
+Finish: Wed Nov  1 18:38:18 2023
+
+5 FILES EXTRACTED
+	
+jpg:= 1
+png:= 4
+------------------------------------------------------------------
+
+Foremost finished at Wed Nov  1 18:38:18 2023
