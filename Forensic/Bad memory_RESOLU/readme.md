@@ -61,7 +61,7 @@ congo:ab395607d3779239b83eed9906b4fb92:goldfish#
 Congo nous donnes donc son mot de passe, il nous reste plus qu'à le hasher en MD5
 
 ```bash
-echo -n "goldfish" | md5sum
+echo -n "goldfish#" | md5sum
 ```
 
 Ce qui donne le résultat suivant:
