@@ -51,7 +51,7 @@ var/lib/dpkg/diversions-old
 Bon nous avons un joli filesystem unix, avec l'indice sur firefox, nous allons chercher dans le dossier utilisateur
 
 ```bash
-ls -alh /home
+ls -alh home
 total 4,0K
 drwxr-xr-x 1 tiphergane tiphergane    0  7 nov.   2020 .
 drwxr-xr-x 1 tiphergane tiphergane 4,0K  2 nov.  17:30 ..
@@ -61,7 +61,7 @@ drwxr-xr-x 1 tiphergane tiphergane    0  7 nov.   2020 challenge
 Challenge semble être notre cible
 
 ```bash
-ls -alh /home/challenge
+ls -alh home/challenge
 total 12K
 drwxr-xr-x 1 tiphergane tiphergane    0  7 nov.   2020 .
 drwxr-xr-x 1 tiphergane tiphergane    0  7 nov.   2020 ..
