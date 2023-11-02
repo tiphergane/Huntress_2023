@@ -10,7 +10,7 @@ __Attachements__: Purview.csv
 
 ---
 
-À mis chemin entre l'analyse SoC et le forensics, cet exercice va nous plonger dans la lecture d'un log purview de Microsoft 365 à la recherche d'artefacts.
+À mi chemin entre l'analyse SoC et le forensics, cet exercice va nous plonger dans la lecture d'un log purview de Microsoft 365 à la recherche d'artefacts.
 
 Nous allons commencer par analyser l'énnoncé:
 
