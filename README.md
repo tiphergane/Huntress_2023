@@ -1,5 +1,27 @@
 # Huntress_2023
 
-Repo du CTF Huntress 2023
+CTF réalisé dans le cadre du cybermois par l'entreprise [huntress](https://www.huntress.com) (un lien avec [Huntress](https://dccomics.warnerbros.fr/articles/les-heros-dc/birds-of-prey-portrait-huntress) de bird of prey ? Qui sait, peut être que John Hammond me répondra s'il tombe sur mes writeups).
+
+Qu'est-ce que le [cybermois ?](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/cybermois-092023), c'est 30 jours où les entreprises de sécurité informatique comme [Onepoint](https://www.groupeonepoint.com) vont redoubler d'effort pour mettre en avant les bonnes pratiques en terme de sécurité informatique.
+
+Cela ce passe par le biais de webinaires, compétitions, interventions dans les entreprises, publications d'articles, …
+
+Ce CTF était par équipe, et c'est avec plaisir que j'y ai participé avec Sax
+
+Pour le résultat final, il ne faut pas perdre de vue que nous avons réalisé ce score avec un temps actif __MAXIMUM__ de 3h par joueur.
 
 ![](./IMG/image_3.png)
+
+Liste des Writeups:
+
+__Forensic__
+
+* [bad memory](./Forensic/Bad memory_RESOLU/readme.md)
+* [Dumpster Fire](./Forensic/Dumpster Fire_RESOLU/readme.md)
+* [Opposable Thumbs](./Forensic/Opposable Thumbs_RESOLU/readme.md)
+* [Rogue Inbox](./Forensic/Rogue Inbox_RESOLU/readme.md)
+* [Texas Chainsaw Massacre: Tokyo Drift]() __résolu après le CTF, writeup en cours d'écriture__
+
+__Miscellaneous__
+
+* [MFAtigue](./Miscellaneous/MFAtigue_RESOLU/readme.md)
