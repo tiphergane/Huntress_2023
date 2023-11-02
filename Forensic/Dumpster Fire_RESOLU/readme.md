@@ -71,7 +71,7 @@ drwxr-xr-x 1 tiphergane tiphergane    0  7 nov.   2020 .mozilla
 -rw-r--r-- 1 tiphergane tiphergane  807  7 nov.   2020 .profile
 ```
 
-Bingo, nous avons un repertoire de configuration **mozzilla**.
+Bingo, nous avons un repertoire de configuration **mozilla**.
 
 Il est de notoriété publique que nous pouvons extraire les mots de passe depuis un profil, comme nous sommes dans un CTF, nous allons tester cela de suite.
 
