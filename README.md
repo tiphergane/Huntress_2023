@@ -16,10 +16,10 @@ Liste des Writeups:
 
 __Forensic__
 
-* [bad memory](./Forensic/Bad memory_RESOLU/readme.md)
-* [Dumpster Fire](./Forensic/Dumpster Fire_RESOLU/readme.md)
-* [Opposable Thumbs](./Forensic/Opposable Thumbs_RESOLU/readme.md)
-* [Rogue Inbox](./Forensic/Rogue Inbox_RESOLU/readme.md)
+* [bad memory](./Forensic/Bad%20memory_RESOLU/readme.md)
+* [Dumpster Fire](./Forensic/Dumpster%20Fire_RESOLU/readme.md)
+* [Opposable Thumbs](./Forensic/Opposable%20Thumbs_RESOLU/readme.md)
+* [Rogue Inbox](./Forensic/Rogue%20Inbox_RESOLU/readme.md)
 * [Texas Chainsaw Massacre: Tokyo Drift]() __résolu après le CTF, writeup en cours d'écriture__
 
 __Miscellaneous__
