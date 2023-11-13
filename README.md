@@ -25,3 +25,7 @@ __Forensic__
 __Miscellaneous__
 
 * [MFAtigue](./Miscellaneous/MFAtigue_RESOLU/readme.md) __résolu après le CTF__
+
+__Malware__
+
+* [BlackCat](./Malware/BlackCat_RESOLU/) __résolu après le CTF__
