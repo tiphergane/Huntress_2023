@@ -1,3 +1,0 @@
-U3RhcnQtUHJvY2VzcyAiaHR0cHM6Ly95b3V0dS5iZS81NjFubmQ5RWJzcz90PTE2IgojZmxhZ3s0MDk1MzczNDdjMmZhZTAxZWY5ODI2YzI1MDZhYzY2MH0jCg==
-Start-Process "https://youtu.be/561nnd9Ebss?t=16"
-#flag{409537347c2fae01ef9826c2506ac660}#
